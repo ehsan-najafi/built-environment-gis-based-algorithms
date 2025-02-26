@@ -8,8 +8,8 @@
 
 
 ### Input data
-in_sample_points = r"D:\built-environment-gis-based-algorithms\data_test\sample_data.gdb\sample_participants_home"
-in_network_dataset = r"D:\built-environment-gis-based-algorithms\data_test\sample_data.gdb\pedstrain_network_ND"
+in_sample_points = r"D:\gis-based-built-environment-algorithms\data_test\sample_data.gdb\sample_participants_home"
+in_network_dataset = r"D:\gis-based-built-environment-algorithms\data_test\sample_data.gdb\pedstrain_network_ND"
 
 buffer_in_meters = 1000
 
