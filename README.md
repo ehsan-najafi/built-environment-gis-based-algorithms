@@ -1,4 +1,5 @@
-#GIS-based Built-environment Algorithms
+#gis-based-built-environment-algorithms
+
 Python Scripts for Assessing Built Environment Factors Using GIS Methods and Network-Based Analysis
 
 This project employs Geographic Information System (GIS) methods to evaluate built environment indices for each sampled location based on the street network. It details the Python scripts developed to analyze various aspects of the built environment, including effective walkable areas, the proportion of major streets, street intersection density, land use diversity (measured by the Herfindahl-Hirschman Index), residential density, and spatial access to parks and sports facilities.
