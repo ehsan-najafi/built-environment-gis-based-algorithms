@@ -7,4 +7,3 @@ This project employs Geographic Information System (GIS) methods to evaluate bui
 
 Spatial accessibility algorithms are developed to evaluate access to parks and sports facilities by measuring the distance to the nearest facility and applying a gravity-based accessibility index. The gravity-based method quantifies accessibility by considering both the number of available services and the size of each facility within the street network.
 
-![Uploading github_image2.jpg…]()
