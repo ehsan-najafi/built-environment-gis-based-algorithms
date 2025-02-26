@@ -7,13 +7,13 @@
 ###  Sample data for test: /data_test/sample_data.gdb
 
 ### Input data
-in_origins_points = r"D:\built-environment-gis-based-algorithms\data_test\sample_data.gdb\sample_participants_home"
-in_network_dataset = r"D:\built-environment-gis-based-algorithms\data_test\sample_data.gdb\pedstrain_network_ND"
+in_origins_points = r"D:\gis-based-built-environment-algorithms\data_test\sample_data.gdb\sample_participants_home"
+in_network_dataset = r"D:\gis-based-built-environment-algorithms\data_test\sample_data.gdb\pedstrain_network_ND"
 
-# in_poi_points = r"D:\built-environment-gis-based-algorithms\data_test\sample_data.gdb\park"
+# in_poi_points = r"D:\gis-based-built-environment-algorithms\data_test\sample_data.gdb\park"
 # poi_name = "park"
 
-in_poi_points = r"D:\built-environment-gis-based-algorithms\data_test\sample_data.gdb\sport"
+in_poi_points = r"D:\gis-based-built-environment-algorithms\data_test\sample_data.gdb\sport"
 poi_name = "sport"
 
 minimum_parks_area = 0
